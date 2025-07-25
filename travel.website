@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Best Travel Agency</title>
+    <meta name="description" content="Discover the best travel destination around the world, curated tips, and vacation planning advice." />
+  </head>
+    <body>
+    <h1>Top Travel Destinations Around the World</h1>
+    <p>Discover a world of unforgettable travel experiences. Whether you're dreaming of a relaxing beach escape, a cultural adventure, or a breathtaking mountain getaway, we've got the perfect destination for you. Explore handpicked travel opportunities, expert tips, end personalized recommendations to make your next journey truly special. Let your next adventure begin here!</p>
+    <h2>Packages</h2>
+    <p>Whether you're looking for a quick escape, a comfortable vacation, or a once-in-a-lifetime luxury adventure — we have a package that fits your needs. Explore our carefully curated travel options below and start planning your next unforgettable journey.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+   <h2>Top Itineraries</h2>
+   <figure> 
+     <a href="https://www.freecodecamp.org/learn" target="_blank">
+     <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Colosseum in Rome">
+     </a>
+     <figcaption>Explore the Colloseum in Rome</figcaption>
+   </figure> 
+   <figure> 
+     <a href="https://www.freecodecamp.org/learn" target="_blank"> 
+     <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Snowy Alps"> 
+     </a>
+     <figcaption>Adventure in the Alps</figcaption>
+   </figure>
+   <figure> 
+     <a href="https://www.freecodecamp.org/learn" target="_blank">
+     <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Eiffel Tower in Paris">
+     </a>
+     <figcaption>Romantic Paris Getaway</figcaption>
+   </figure>
+  </body>
+</html>
+
+
+
